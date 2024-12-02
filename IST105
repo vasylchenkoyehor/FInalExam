@@ -2,4 +2,6 @@ CCTB
 Course: IST105 - Introduction to Programming
 Instructor: Washington Valencia
 Version: Dec - 2024
-Description: Implemented gift selection logic using bitwise operations and updated the gift list.
+Description: 
+1. Implemented gift selection logic using bitwise operations and updated the gift list.
+2. Configured EC2 instances with Apache and Python, and deployed the web app.
